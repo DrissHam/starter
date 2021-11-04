@@ -2,8 +2,13 @@
 title: "Home"
 ---
 
-# Hi there
+# Hugo Training
 
-Welcome to your new Hugo site.
+Contenu 
+
+kkkkkkkkkkk
+Welcome to your nex Hugo site.
 
 Now go build something great.
+
+2021 Copyright
