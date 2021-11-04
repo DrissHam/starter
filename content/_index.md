@@ -4,7 +4,7 @@ title: "Home"
 
 # Hugo Training
 
-Contenu 
+Contenu de la page d'acceuil
 
 kkkkkkkkkkk
 Welcome to your nex Hugo site.
